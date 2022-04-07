@@ -1,7 +1,7 @@
 ![Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/236722020_999290357574892_7546065024385670417_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ltb-cfrVI0sAX_daMKB&_nc_oc=AQlkMd2GuW_xEfQrUTAnMwmZFs66HseFSxPM6AnhWZhnUjYzYdHJt2Hv2PqrT1VLYBI&_nc_ht=scontent.fdac24-2.fna&oh=00_AT9dVQ2BEIDc0d3Kn1vqFvwwA3pBt_YR1yMTl9DY49k9oA&oe=6254071A)
 
-### Hi there 👋, I'm Tarek
-#### Web Developer
+# Hi there 👋, I'm Tarek
+### Web Developer
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
